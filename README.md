@@ -17,6 +17,8 @@ Below are some descriptions of my projects (Spoilers ahead, if possible, please 
 
 ### Lean (HW_Lean)
 
+<img width="803" alt="Lean" src="https://user-images.githubusercontent.com/61874388/152423840-2d732b1b-02fe-4995-9998-f528b4c0e100.png">
+
 It's dawn time. You just witnessed a fight scene between two furious men, you saw an axe flying toward one of the men. After 2 seconds, there were two dead bodies lying on the ground. Since you are peeping through a window, you did not really get the full picture: "Why did I hear gun shot", "How did the other man die", etc. Driven by curiosity, you decided to lean forward...
 
 
@@ -41,6 +43,8 @@ Handmade blueprints:
 
 
 ### Dip (HW_Dip)
+
+<img width="801" alt="Dip" src="https://user-images.githubusercontent.com/61874388/152423861-0a830eea-c11b-4776-a981-102c95660678.png">
 
 You are a gang member who recently disobeyed an important order from your boss and cost him a fortune. The boss was pissed off and sentenced you to death. However, it seems like in his opinion, brutally killing you with axes instead guns is more satisfying to him. Although you knew there was no escape, you tried to dodge the axes coming at you...
 
@@ -87,6 +91,8 @@ Imported Blueprints (Meshes):
 
 
 ### Left (HW_Left)
+
+<img width="794" alt="Left" src="https://user-images.githubusercontent.com/61874388/152423880-e508e83a-da6b-486c-8863-da8d87ca46c4.png">
 
 You are in space now, being chased by numerous enemy spaceships. To make things worse, they are coming from everywhere, leaving you little room to espace. Will you be able to found a way out?...
 
