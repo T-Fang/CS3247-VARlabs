@@ -110,3 +110,35 @@ Handmade blueprints:
 - Spaceship `BP_Spaceship`:
   - After `Event BeginPlay`, we set the direction ( `direction` ) of the spaceship such that it is moving towards the player's location (origin) and choose a random reasonable number for the `speed`
   - In `Event Tick`, we first check if the spaceship is closed enough to the player, if not, the spaceship will continue moving. Otherwise, we destroy the spaceship so that spaceships won't keep accumulating and affect the computer's performance.
+
+
+
+## miniProject3
+
+In this miniProject, we are expected to design a level that allows the player to “touch” the environment with gaze and simple input.
+
+- Create *at least* **two new interactable actors** that **respond to player trace**
+- Build a **new level** (HW_Creative) that meaningfully incorporates your interactable actors.
+
+
+
+Here's what I've come up with:
+
+The game looks like a normal "Whack a Mole" game at the beginning. However, if a player has accumulated a certain number of points via hitting the mole with a hammer, he will reach the next stage. During the second phase, the arcade machine on which the player played his "Whack a Mole" game becomes the "mole" to hit! In a way, the floor itself is an arcade machine. Finally, if the player has hit enough arcade machines, the lights will suddenly went down and the floor will start to rise. When the player finally get to the ground, he will discover that a giant hammer, which is similar to the one that the player is holding, is waiting above his head...
+
+
+
+Here's a few things that you can check out:
+
+- Interactable actors:
+  - Mole
+  - Arcade Machine
+- Sequence:
+  - HammerSequence
+  - GrassHoleAndBigHammerSequence
+- Timeline:
+  - PopUp timeline in "Mole" and "Arcade Machine", which uses a custom curve "Curve_Mole"
+  - Flikering timeline in the "Flickering Round Light"
+
+
+
