@@ -124,7 +124,14 @@ In this miniProject, we are expected to design a level that allows the player to
 
 Here's what I've come up with:
 
-The game looks like a normal "Whack a Mole" game at the beginning. However, if a player has accumulated a certain number of points via hitting the mole with a hammer, he will reach the next stage. During the second phase, the arcade machine on which the player played his "Whack a Mole" game becomes the "mole" to hit! In a way, the floor itself is an arcade machine. Finally, if the player has hit enough arcade machines, the lights will suddenly went down and the floor will start to rise. When the player finally get to the ground, he will discover that a giant hammer, which is similar to the one that the player is holding, is waiting above his head...
+The game looks like a normal "Whack a Mole" game at the beginning.
+![miniproject3_first_game](https://user-images.githubusercontent.com/61874388/153933713-f8626fcf-ade7-4f04-a096-8016f8fd6cd4.png)
+
+However, if a player has accumulated a certain number of points via hitting the mole with a hammer, he will reach the next stage. During the second phase, the arcade machine on which the player played his "Whack a Mole" game becomes the "mole" to hit! In a way, the floor itself is an arcade machine.
+![miniproject3_second_game](https://user-images.githubusercontent.com/61874388/153933748-054524a3-d421-4398-a731-76e15d303d17.png)
+
+Finally, if the player has hit enough arcade machines, the lights will suddenly went down and the floor will start to rise. When the player finally get to the ground, he will discover that a giant hammer, which is similar to the one that the player is holding, is waiting above his head...
+![miniproject3_final_game](https://user-images.githubusercontent.com/61874388/153933761-5496ea1e-9bdf-42a9-9f35-7bd2dfb00337.png)
 
 
 
