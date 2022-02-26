@@ -159,7 +159,9 @@ In this miniProject, we are expected to incorporate physics and create a new exp
 
 I am going to use the "**Like a flash**" theme and create some mini games that are similar to that of the "*Fall Guys: Ultimate Knockout*". The players are equipped with dashing ability (via pressing `SHIFT`), and they are expected to utilize it to clear the game levels (like a flash!). The players can also pick up/drop things in front of them via `E` or Left Mouse Click. Here are some brief description of each mini games:
 
-1. 
+1. The first mini level consists of three moving platforms. Players have to find a great timing in order to reach the next platform
+1. The second mini level includes lots of unstable tiles that will start to fall if the player steps on it for 1 seconds. Meanwhile, hammers will swing from left and right, making it more challenging for the player
+1. The last mini level requires some investigation. There are some Jumppads and conveyor belts. If the player directly jump towards the Jumppads, the Jumppads won't push the player away. To activate the Jumppads, the player need to pick up the cardborad box next to the red button via E/left mouse click (Note, one of the box is set to be Respawnable so that the player won't face the situation that there are no more box left). Then drop the box on the red button (via E/left mouse click). The Jumppads are now activated and the player can now try to jump and clear the level
 
 Below is a brief demo of this miniProject:
 
