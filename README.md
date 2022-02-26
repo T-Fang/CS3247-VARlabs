@@ -157,6 +157,12 @@ In this miniProject, we are expected to incorporate physics and create a new exp
 - **Out of sight, out of mind**.
 - **Like a flash**.
 
-I am going to use the "**Like a flash**" theme and create some mini games that are similar to that of the "*Fall Guys: Ultimate Knockout*". The players are equipped with dashing ability (via pressing `SHIFT`), and they are expected to cleverly utilize it to clear the game levels (like a flash!). The players can also pick up/drop things in front of them via `E` or Left Mouse Click. Here are some brief description of each mini games:
+I am going to use the "**Like a flash**" theme and create some mini games that are similar to that of the "*Fall Guys: Ultimate Knockout*". The players are equipped with dashing ability (via pressing `SHIFT`), and they are expected to utilize it to clear the game levels (like a flash!). The players can also pick up/drop things in front of them via `E` or Left Mouse Click. Here are some brief description of each mini games:
 
 1. 
+
+Below is a brief demo of this miniProject:
+
+```
+[![CS3247 miniProject5 Demo](https://img.youtube.com/vi/q4jrStXWz9s/0.jpg)](https://www.youtube.com/watch?v=q4jrStXWz9s)
+```
