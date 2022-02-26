@@ -165,6 +165,5 @@ I am going to use the "**Like a flash**" theme and create some mini games that a
 
 Below is a brief demo of this miniProject:
 
-```
 [![CS3247 miniProject5 Demo](https://img.youtube.com/vi/q4jrStXWz9s/0.jpg)](https://www.youtube.com/watch?v=q4jrStXWz9s)
-```
+
