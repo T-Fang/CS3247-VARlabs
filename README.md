@@ -161,7 +161,7 @@ I am going to use the "**Like a flash**" theme and create some mini games that a
 
 1. The first mini level consists of three moving platforms. Players have to find great timing in order to reach the next platform
 1. The second mini level includes lots of unstable tiles that will start to fall if the player steps on it for 1 second. Meanwhile, hammers will swing from left and right, making it more challenging for the player
-1. The last mini level requires some investigation. There are some jumppads and conveyor belts. If the player directly jumps towards the jumppads, the jumppads won't push the player away. To activate the jumppads, the player needs to pick up the cardboard box next to the red button via E/left mouse click (Note, one of the boxes is set to be Respawnable so that the player won't face the situation that there are no more box left). Then drop the box on the red button (via E/left mouse click). The jumppads are now activated and the player can now try to jump and clear the level
+1. The last mini level requires some investigation. There are some jump pads and conveyor belts. If the player directly jumps towards the jump pads, the jump pads won't push the player away. To activate the jump pads, the player needs to pick up the cardboard box next to the red button via E/left mouse click (Note, one of the boxes is set to be Respawnable so that the player won't face the situation that there are no more box left). Then drop the box on the red button (via E/left mouse click). The jump pads are now activated and the player can now try to jump and clear the level
 
 Below is a brief demo of this miniProject:
 
