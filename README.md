@@ -149,3 +149,14 @@ Here's a few things that you can check out:
 
 
 
+## miniProject5
+
+In this miniProject, we are expected to incorporate physics and create a new experience that corresponds to one of the following themes:
+
+- **Larger than life**.
+- **Out of sight, out of mind**.
+- **Like a flash**.
+
+I am going to use the "**Like a flash**" theme and create some mini games that are similar to that of the "*Fall Guys: Ultimate Knockout*". The players are equipped with dashing ability (via pressing `SHIFT`), and they are expected to cleverly utilize it to clear the game levels (like a flash!). The players can also pick up/drop things in front of them via `E` or Left Mouse Click. Here are some brief description of each mini games:
+
+1. 
